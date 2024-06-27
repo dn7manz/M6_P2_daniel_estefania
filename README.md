@@ -19,8 +19,8 @@ A continuacion evidencias de que le contrato fue ejecutado en una red blockchain
 
 ![image](https://github.com/dn7manz/M6_P2_daniel_estefania/assets/153960298/08b9390a-3778-4ee2-ab51-a2b7fbbc2841)
 
+Ejecuccion de funciones.
 
-Ejecuccion de funciones
 ![image](https://github.com/dn7manz/M6_P2_daniel_estefania/assets/153960298/270c7da9-936b-454d-a8c9-c55770657341)
 
 ![image](https://github.com/dn7manz/M6_P2_daniel_estefania/assets/153960298/d03e892f-52a1-451e-916d-578261f39d2c)
