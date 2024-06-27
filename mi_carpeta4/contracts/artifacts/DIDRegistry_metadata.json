@@ -1,0 +1,121 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "did",
+						"type": "string"
+					},
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "didDocument",
+						"type": "string"
+					}
+				],
+				"name": "DIDCreated",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "did",
+						"type": "string"
+					},
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "didDocument",
+						"type": "string"
+					}
+				],
+				"name": "DIDResolved",
+				"type": "event"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_did",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_didDocument",
+						"type": "string"
+					}
+				],
+				"name": "createDID",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_did",
+						"type": "string"
+					}
+				],
+				"name": "resolveDID",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/did.sol": "DIDRegistry"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/did.sol": {
+			"keccak256": "0x53faf25aec1e5c7dd386a6036e70c3e7b08bd6c103406caf30cef3e1db22f13d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://26e52362ab24aee9026b2b38b7b66425f1f4808fc81f607168482be1e5af338e",
+				"dweb:/ipfs/QmcXJwzdN2wyDp639rXxxNvjX4cvCpMqKsh8xjyW4hMFGe"
+			]
+		}
+	},
+	"version": 1
+}
