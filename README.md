@@ -19,18 +19,17 @@ A continuacion evidencias de que le contrato fue ejecutado en una red blockchain
 
 ![image](https://github.com/dn7manz/M6_P2_daniel_estefania/assets/153960298/08b9390a-3778-4ee2-ab51-a2b7fbbc2841)
 
-Ejecuccion de funciones.
+###Ejecuccion de funciones.
 
-
-aqui vemos que introducimos el did y el didDocument
+Aqui vemos que introducimos el did y el didDocument.
 
 ![image](https://github.com/dn7manz/M6_P2_daniel_estefania/assets/153960298/270c7da9-936b-454d-a8c9-c55770657341)
 
-aqui vemos que la imformacio ha sido anclada en la blockchain
+Aqui vemos que la información ha sido anclada en la blockchain.
 
 ![image](https://github.com/dn7manz/M6_P2_daniel_estefania/assets/153960298/d03e892f-52a1-451e-916d-578261f39d2c)
 
-A continuacion vemos como a partir del did sacamos el didDocument
+A continuacion vemos como a partir del did sacamos el didDocument.
 
 ![image](https://github.com/dn7manz/M6_P2_daniel_estefania/assets/153960298/1945718b-8ecc-4491-a76f-5512a11a80c9)
 
